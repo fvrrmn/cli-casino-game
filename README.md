@@ -13,6 +13,7 @@ Ce projet regroupe mes premiers exercices de programmation réalisés sous Pytho
 ## 📂 Contenu du projet
 
 ### 🎡 Jeu de la roulette
+
 - [x] Déterminer les limites : Plateau et Roue
 - [x] Assigner une couleur : Pour chaque numéro
 - [x] Pari sur une couleur : Rouge ou Noir
@@ -20,13 +21,15 @@ Ce projet regroupe mes premiers exercices de programmation réalisés sous Pytho
 - [x] Résultat affiché : Gagné ou Perdu
 
 ### 🃏 Blackjack
+
 - [x] Créer un paquet : 52 cartes
 - [x] Assigner une valeur : Pour chaque carte
 - [x] Mélange et Distribution des cartes : Croupier et Joueur
 - [x] Calcul : Valeur et Somme des cartes et de la main
 - [x] Choix du Joueur : Tirer ou Rester ( O / N )
-- [x] Résultat affiché : Gagné ou Perdu
-- [x] Rédémarrer le Jeu
+- [x] Résultat affiché : Gagné ou Perdu ou Nul
+- [x] Recommencer une partie
 
 ### 🎰 Machine à sous
+
 - [ ] Développement en cours
