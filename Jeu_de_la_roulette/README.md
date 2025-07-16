@@ -1,8 +1,10 @@
 ## 🎡 Jeu de la roulette
 
-- [x] Pari sur une couleur : Rouge ou Noir  
-- [x] Pari sur un numéro : Pair ou Impair  
-- [x] Résultat affiché : Gagné ou Perdu  
+- [x] Déterminer les limites : Plateau et Roue
+- [x] Assigner une couleur : Pour chaque numéro
+- [x] Pari sur une couleur : Rouge ou Noir
+- [x] Pari sur un numéro : Pair ou Impair
+- [x] Résultat affiché : Gagné ou Perdu
 
 ---
 
