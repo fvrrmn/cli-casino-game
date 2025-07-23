@@ -1,18 +1,35 @@
-# 🎲 Mini-Casino-Sous-Python
+<div align="center">
 
-**Simulation d'un mini casino avec plusieurs Jeux de hasard sous Python 3**
+# 🎲 cli-casino-game
+
+</div>
+
+[![Status](https://img.shields.io/badge/status-En%20cours-yellow)]()
+[![Language](https://img.shields.io/badge/Language-Python%203-blue)]()
+[![Platform](https://img.shields.io/badge/Platform-CLI-lightgrey)]()
+[![License](https://img.shields.io/badge/License-MIT-green)]()
+
+*Jeux de casino en ligne de commande, développés sous Python 3*
 
 ---
 
+<div align="center">
+
 ## 📖 Synopsis
+
+</div>
 
 Ce projet regroupe mes premiers exercices de programmation réalisés sous Python 3. Il contient plusieurs Mini-Jeux de hasard, conçus pour poser les bases de la logique et de la structure du code, sans entrer dans des aspects trop avancés.
 
 ---
 
-## 📂 Contenu du projet
+<div align="center">
 
-### 🎡 Jeu de la roulette
+## 📂 Contenu
+
+</div>
+
+### [🔗 Jeu de la roulette](jeu-de-la-roulette)
 
 - [x] Déterminer les limites : Plateau et Roue
 - [x] Assigner une couleur : Pour chaque numéro
@@ -20,7 +37,7 @@ Ce projet regroupe mes premiers exercices de programmation réalisés sous Pytho
 - [x] Pari sur un numéro : Pair ou Impair
 - [x] Résultat affiché : Gagné ou Perdu
 
-### 🃏 Blackjack
+### [🔗 Blackjack](blackjack)
 
 - [x] Créer un paquet : 52 cartes
 - [x] Assigner une valeur : Pour chaque carte
@@ -30,6 +47,12 @@ Ce projet regroupe mes premiers exercices de programmation réalisés sous Pytho
 - [x] Résultat affiché : Gagné ou Perdu ou Nul
 - [x] Recommencer une partie
 
-### 🎰 Machine à sous
+### [🔗 Machine à sous](machine-a-sous)
 
 - [ ] Développement en cours
+
+---
+
+### 📄 Licence
+
+Ce projet est sous licence [MIT](LICENSE).
