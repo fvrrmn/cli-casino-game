@@ -1,4 +1,12 @@
+<div align="center">
+
 ## 🃏 Blackjack
+
+</div>
+
+```bash
+python3 cli-blackjack.py
+```
 
 - [x] Créer un paquet : 52 cartes
 - [x] Assigner une valeur : Pour chaque carte
@@ -10,15 +18,15 @@
  
 ---
 
-### Règles 
+### 📜 Règles 
 
-Le but est d'avoir une main dont la valeur totale est la plus proche de 21 sans la dépasser tout étant au dessus de celle du Croupier.
+*Le but est d'avoir une main dont la valeur totale est la plus proche de 21 sans la dépasser tout étant au dessus de celle du Croupier.*
 
-Vous commencez avec 2 cartes en main.
+- Vous commencez avec 2 cartes en main.
+- Le Croupier tire automatiquement Jusqu’à atteindre au moins 17.
+- Vous pouvez choisir de tirer une nouvelle carte ou de rester.
 
-Le Croupier tire automatiquement Jusqu’à atteindre au moins 17.
-
-Vous pouvez choisir de tirer une nouvelle carte ou de rester.
+❗ Conditions de victoire :
 
 - Si vous dépassez 21, vous avez **Perdu**.
 - Si le croupier dépasse 21, vous avez **Gagné**.
@@ -28,15 +36,10 @@ Vous pouvez choisir de tirer une nouvelle carte ou de rester.
 
 ---
 
-### Valeur des cartes
+### 🂠 Valeur des cartes
 
 **2 à 10** : Valeur faciale (2 = 2, 7 = 7)
 
 **Valet, Dame, Roi** : 10 points
 
 **As** : 1 ou 11 selon ce qui est le plus avantageux pour votre main
-
----
-
-```bash
-python3 Jeu_Blackjack.py
