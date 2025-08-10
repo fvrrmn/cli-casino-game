@@ -4,7 +4,7 @@
 
 </div>
 
-[![Status](https://img.shields.io/badge/status-En%20cours-yellow)]()
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen)]()
 [![Language](https://img.shields.io/badge/Language-Python%203-blue)]()
 [![Platform](https://img.shields.io/badge/Platform-CLI-lightgrey)]()
 [![License](https://img.shields.io/badge/License-MIT-green)]()
@@ -49,7 +49,14 @@ Ce projet regroupe mes premiers exercices de programmation réalisés sous Pytho
 
 ### [🔗 Machine à sous](machine-a-sous)
 
-- [ ] Développement en cours
+- [x] Définir un solde de départ : 1000 €
+- [x] Définir des symboles : 🍒, 🍋, 🔔, 💎, 7️⃣
+- [x] Assigner un multiple : Pour chaque symbole
+- [x] Mise d'un montant : Joueur
+- [x] Évaluer : Combinaisons gagnantes
+- [x] Calcul : Gain selon le multiplicateur associé
+- [x] Actualiser : Solde
+- [x] Choix du Joueur: Continuer de miser ou Arrêter de Jouer
 
 ---
 
