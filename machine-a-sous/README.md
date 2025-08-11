@@ -15,7 +15,7 @@ python3 cli-machine-a-sous.py
 - [x] Évaluer : Combinaisons gagnantes
 - [x] Calcul : Gain selon le multiplicateur associé
 - [x] Actualiser : Solde
-- [x] Choix du Joueur: Continuer de miser ou Arrêter de Jouer
+- [x] Choix du Joueur : Continuer de miser ou Arrêter de Jouer
  
 ---
 
@@ -45,3 +45,4 @@ python3 cli-machine-a-sous.py
 | Aucune combinaison    | 0 €            |
 
 </div>
+
